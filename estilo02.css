@@ -1,0 +1,10 @@
+div{
+    border: red dotted 3px; /* bordas */
+    width: 100px; /* comprimento */
+    height: 100px; /* altura */
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
